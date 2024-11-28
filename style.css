@@ -92,6 +92,10 @@ h4 {
     border: 2px solid #FFB3C6;
 }
 
+.enrollment .container .info-data input:focus {
+    border: 2px solid #FFB3C6;
+}
+
 .enrollment .container .info-data .student-info .input {
     font-size: 20px;
     border-radius: 8px;
